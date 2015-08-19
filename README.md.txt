@@ -1,0 +1,3 @@
+If you have trouble reading FinalTable.txt, try reading FinalTable.csv instead. The collumn names are the new descriptive variables. The first row is the mean of each variable and the second row is its standard deviation.
+
+Collumn names were replaced with descriptive variable names in both the Training and Testing sets. The Training and Testing datasets were merged using rbind(). Means and standard deviations were calculated using apply(), and the results were merged using rbind(). 
